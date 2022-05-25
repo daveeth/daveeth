@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dawit Hailu
 # 👀 I’m a Python and Javascript programmer
-- 🌱 I’m currently working on Vue Js for frontend and Django and Firebase for backend ...
+- 🌱 I’m currently working on Vue Js 3 for frontend and Django and Firebase for backend ...
 - 💞️ I’m looking to collaborate on the Django framework to make the admin site even more enticing
  
  
